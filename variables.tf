@@ -13,3 +13,7 @@ variable "username" {
 variable "password" {
   description = "admin password"
 }
+
+variable "instance_name" {
+  description = "vm instance name"
+}
